@@ -54,7 +54,6 @@ body{
   border-radius: 18px;
   background-color: var(--clr-white);
   border: 1.3px solid var(--clr-dark);
-  margin-bottom: 32px;
   align-items: center;
   display: flex;
   flex-direction: column;
