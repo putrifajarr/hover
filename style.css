@@ -41,16 +41,14 @@ body{
 .card-wrapper {
   display: flex;
   padding-top: 24px;
-  /* justify-content: space-between; */
   flex-wrap: wrap;
   justify-content: center;
-  gap: 32px;
+  gap: 32px; 
 }
 
 .card {
   width: 300px;
   padding: 24px 16px 32px;
-  margin-bottom: 32px;
   transition: 0.3s;
   border-radius: 18px;
   background-color: var(--clr-white);
